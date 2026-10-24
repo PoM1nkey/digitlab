@@ -1,0 +1,7 @@
+{
+  "dataset": "MNIST test split, first 1000 examples in original order",
+  "n": 1000,
+  "raw_model_accuracy": 0.984,
+  "image_pipeline_accuracy": 0.98,
+  "note": "A fixed test subset, not a guarantee for photos or arbitrary handwriting."
+}

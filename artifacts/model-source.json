@@ -1,0 +1,6 @@
+{
+  "model_id": "onnxmodelzoo/mnist-12",
+  "revision": "1cd752f4a3d818fa215aa621c78b8a10a4a1a3a5",
+  "source": "https://huggingface.co/onnxmodelzoo/mnist-12",
+  "sha256": "5c688690f8bacf667d4c2074af5ad0646ca328d7ab03eccf944a65b320171bdd"
+}

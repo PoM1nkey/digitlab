@@ -14,6 +14,13 @@ Streamlit отправляет изображение в FastAPI, API выпол
 MNIST-12 с Hugging Face через ONNX Runtime. Собственная модель не обучается.
 Автор: Егор Пескишев, GitHub [PoM1nkey](https://github.com/PoM1nkey).
 
+**[Открыть приложение](https://digits-pom1nkey.streamlit.app/)** ·
+**[Открыть демонстрацию Colab](https://colab.research.google.com/github/PoM1nkey/digitlab/blob/main/notebooks/demo.ipynb)**
+
+24 октября 2026 года проверены облачное распознавание, успешный запуск модели
+в Google Colab и CI на GitHub. Подтверждения: `artifacts/publication.json`,
+`docs/cloud-screenshot.png`, `docs/colab-screenshot.png`.
+
 ## Быстрый запуск
 
 Нужен Python 3.11 или 3.12. Windows PowerShell:

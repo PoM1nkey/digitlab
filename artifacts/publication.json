@@ -1,0 +1,13 @@
+{
+  "author": "Пескишев Егор Юрьевич",
+  "group": "ЗИИНм-1-26",
+  "repository": "https://github.com/PoM1nkey/digitlab",
+  "app": "https://digits-pom1nkey.streamlit.app/",
+  "cloud_inference_verified": true,
+  "ci": "https://github.com/PoM1nkey/digitlab/actions/runs/40110805643",
+  "ci_status": "success",
+  "colab": "https://colab.research.google.com/github/PoM1nkey/digitlab/blob/main/notebooks/demo.ipynb",
+  "colab_inference_verified": true,
+  "cd_hook_configured": false,
+  "verified_date": "2026-10-24"
+}
